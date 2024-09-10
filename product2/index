@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>YUANQIAN Women Soft Legwarmers for Ballet Dance</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1 class="headline">Product Name</h1>
+        <p class="description">
+            
+    💕Material: 95% Acrylic, 5% Spandex
+
+    💕Very comfortable stretch fabric,a perfect gift to yourself and your family
+
+    💕Ladies and Girls Fashion Leg Warmer, Great for 80’s Party/Costume Play/Yoga Sport/Fitness / Casual Dresses
+
+    💕Unique yoga design could give you more choices, these Yoga Leg Warmers not only can be ordinary short legwarmers,boot cuffs,boot socks to match with your favorite boots,shoes in cold days,but also can be a new style yoga socks,stirrup legwarmers for dance
+
+    💕100% Satisfaction Guarantee: We only sell good quality products and we are happy to offer you our manufactures warranty and refund in full if our products do not meet your satisfaction; Buy Without Risk!
+
+    💕You will receive leg warmers in need color,you can choose one according to mood to match your clothes and show your personality.Easily to match with boots shoes,tights,leggings,skirts,dress,skinny jeans
+        </p>
+        <ul class="features">
+            <li>Feature 1: Detailed description of the feature.</li>
+            <li>Feature 2: Another important feature of the product.</li>
+            <li>Feature 3: Final key feature that highlights the product.</li>
+        </ul>
+        <a href="https://www.example.com" class="buy-now-button">Buy Now</a>
+    </div>
+</body>
+</html>
