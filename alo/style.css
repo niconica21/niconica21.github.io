@@ -1,0 +1,104 @@
+
+body{
+  background-color: white;
+  margin:0;  
+  padding:0;
+
+}
+.outer{
+   text-align: center;
+   padding:20px;
+}
+.page{
+  background-color: white;
+   max-width:1200px;
+   width: 100%;
+   height:95vh;
+   display: inline-block;
+   text-align:left;
+   padding:10px;
+   
+}
+
+a{
+  color:black;
+  font-size:16px;
+  text-decoration: none;
+  margin-right:50px;
+  font-family: "sofia-pro", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+a:hover {
+  color:blue;  
+ }
+  a:active {
+  color:#CCC;
+}
+.content{
+  padding-left: 20px;
+  padding-right: 20px;
+  background-color: white;
+  text-align: left;
+}
+.nav{
+  font-family: sans-serif;
+   margin-left:10px;
+   margin-top:10px;
+   text-align: left;
+}
+.topofpage{
+    display: flex;
+    flex-direction: row;
+    flex-wrap:nowrap;
+    align-items: center;
+    justify-content: flex-start;
+    height:100px;
+ 
+}
+.logo{
+  max-width: 100px;
+}
+.logo_img{
+  margin-top: 0px;
+  margin-left: 10px;
+  width:80%;
+}
+.navbar{
+  
+  flex-grow: 1;
+  text-align: left;
+}
+.search{
+  
+  align-content: flex-end;
+  margin-left: auto;
+  max-width:80px;
+}
+.search_img{
+  width: 35%;
+}
+.bag{
+  align-content: flex-end;
+  margin-left: auto;
+  max-width:80px;
+}
+.bag_img{
+  width: 35%;
+}
+.flex-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.out_img{
+  width: 100%;
+  padding-left: 20px;
+  padding-right: 20px;
+  background-color: white;
+  text-align: center;
+
+}
