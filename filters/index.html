@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Filters</title>
+
+	<style>
+     .my_filter{
+
+      -webkit-filter: blur:(100px) saturate(4); 
+      filter: blur(100px) saturate(4);
+
+      
+
+     }
+
+
+
+
+
+    .my_filter:hover{
+
+      animation: 2s myfilteranimation forwards;
+
+    }
+
+
+
+
+     @keyframes myfilteranimation{
+      
+	      100%{
+	       -webkit-filter: blur:(0px) saturate(4); 
+	        filter: blur(0px) saturate(4);
+	       }
+
+     }
+
+
+
+
+	</style>
+</head>
+<body>
+
+<img class="my_filter" src="img/flower.jpg" alt="flower">
+
+</body>
+</html>
